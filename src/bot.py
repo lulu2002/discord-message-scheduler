@@ -36,7 +36,6 @@ class Bot(commands.Bot):
         super().__init__(
             command_prefix=commands.when_mentioned_or(PREFIX),
             intents=intents,
-            activity=activity,
             help_command=HelpCmd(),
         )
 

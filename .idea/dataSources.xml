@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="schedule" uuid="de14668d-63a7-4309-bc10-62e047ffe60e">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>497e75c7-37c5-4c1f-a9dd-78d03d985b4e</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/schedule.sqlite</jdbc-url>
